@@ -1,0 +1,1 @@
+# Manual-testing-Pinterest-web-page
